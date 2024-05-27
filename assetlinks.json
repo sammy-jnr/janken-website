@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.onrender.umehwisdom.janken",
+      "sha256_cert_fingerprints":
+      ["3D:D6:AD:60:34:00:50:2D:B3:0E:71:11:69:E6:35:C5:BD:0A:63:9F:03:97:D2:01:6D:9D:D5:87:A8:A5:83:D8"]
+    }
+  }]
